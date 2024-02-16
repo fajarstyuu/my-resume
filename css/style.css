@@ -1,0 +1,122 @@
+body {
+    font-family: "Product Sans", sans-serif;
+    margin: 0;
+    background-color: black;
+}
+
+.head-main{
+    font-family: "Product Sans", sans-serif;
+    height: fit-content;
+}
+
+.head-main .container{
+    padding-top: 50px;
+    height: 370px;
+    background-color: black;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center .photo-profile{
+    width: 250px;
+    border-radius: 100px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.head-main h1, .head-main p{
+    color: white;
+}
+
+.body-main{
+    font-family: "Product Sans", sans-serif;
+    height: fit-content;
+}
+
+.body-main .container{
+    height: 740px;
+}
+
+.body-main .summary{
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    height: 340px;
+    background-color: #d5055b;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-right:51%;
+    color: white;
+}
+
+.body-main .education{
+    position:static;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    height: 140px;
+    background-color: #d5055b;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 51%;
+    margin-right: 20px;
+    color: white;
+}
+
+.body-main .work-experience{
+    position:static;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    height: 160px;
+    background-color: #d5055b;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 51%;
+    margin-right: 20px;
+    color: white;
+}
+
+.body-main .skills{
+    position:absolute;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    width: 650px;
+    height: 220px;
+    background-color: #d5055b;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 51%;
+    color: white;
+}
+.body-main .awards{
+    position:static;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    height: 220px;
+    background-color: #d5055b;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 51%;
+    margin-right: 20px;
+    color: white;
+}
+
+.footer{
+    color: white;
+}
